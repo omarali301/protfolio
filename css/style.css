@@ -6,11 +6,13 @@ body{
 section{
 
     height: 500px;
+    
 }
 
 .orange-highlight{
     color: orange;
 }
+
 
 .half-width{
     width: 40%;
@@ -47,6 +49,13 @@ h2{
     border-radius: 5px;
 }
 
+
+.experience-box:hover{
+
+    background-color: black;
+    color: orange;
+    
+}
 .experience-sec{
 
     background-image: url(../image/exp-bg.png);
